@@ -1,4 +1,4 @@
-Heyo I'm Patrick! I'm making small-medium scale personal applications, mainly web app stuff. I'm currently sharpening my Angular skills.
+Hello there, I'm Patrick. I'm making small-medium scale personal applications, mainly web app stuff.
 If you want to contact me use patrickw9080@outlook.com, I check my email at least once a day.
 
 <!---
